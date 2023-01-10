@@ -1,3 +1,4 @@
+
 // 1 Number
 // const num = 42 // integer
 // const float = 42.42 // float\
@@ -67,4 +68,3 @@
 // }
 
 // console.log(getRandomBetween(10, 42))
-
